@@ -1,0 +1,14 @@
+COLORS:
+coolors.co
+
+to see browser support:
+caniuse.com
+shouldiprefix.com
+
+clip path =====> google it to make clip path shapes
+
+formspree==> to have form details in your email
+
+netlify ====> for hosting website with free domain
+
+isotop.mtallfizzy.co ======>   for jquery samples
